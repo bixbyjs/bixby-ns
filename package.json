@@ -1,7 +1,7 @@
 {
   "name": "bixby-ns",
   "version": "0.0.0",
-  "description": "Naming services for the Bixby framework.",
+  "description": "Naming services for Bixby.js.",
   "keywords": [
     "ns",
     "dns"
