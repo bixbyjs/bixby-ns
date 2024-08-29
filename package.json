@@ -26,6 +26,12 @@
     }
   ],
   "main": "./app",
+  "assembly": {
+    "namespace": "ns",
+    "components": [
+      "services"
+    ]
+  },
   "devDependencies": {
     "chai": "^4.2.0",
     "make-node": "^0.3.0",
