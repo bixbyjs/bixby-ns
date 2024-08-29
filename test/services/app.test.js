@@ -10,9 +10,8 @@ describe('services/app', function() {
   
   it('should load service configuration from this package', function() {
     var registry = factory();
-    console.log(registry);
-    
-    expect(1).to.equal(2);
+    expect(registry.get('postgresql')).to.deep.equal({ port: 5432, protocol: 'tcp' });
+    expect(registry.get('postgres')).to.deep.equal({ port: 5432, protocol: 'tcp' });
   }); // should load service configuration from this package
   
 });
