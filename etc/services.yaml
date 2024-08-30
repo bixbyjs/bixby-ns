@@ -3,3 +3,7 @@ postgresql:
   protocol: tcp
   aliases:
     - postgres
+
+consul:
+  port: 8500
+  protocol: tcp
