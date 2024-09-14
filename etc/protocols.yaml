@@ -1,0 +1,8 @@
+#https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml
+#https://www.man7.org/linux/man-pages/man5/protocols.5.html
+
+tcp:
+  number: 6
+  
+udp:
+  number: 17
