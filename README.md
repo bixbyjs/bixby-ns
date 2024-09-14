@@ -17,8 +17,8 @@ requirements of modern, service-oriented architectures including:
 
 - [`bixby-sd`](https://github.com/bixbyjs/bixby-sd): Service discovery and
   hostname-to-address translation.
-- [`@authnomicon/*`](https://github.com/authnomicon): Directory services for
-  user, group, and credential information.
+- [`@authnomicon/*`](https://github.com/authnomicon/.github#directory-services):
+  Directory services for user, group, and credential information.
 
 <div align="right">
   <sup>Developed by <a href="#authors">Jared Hanson</a>.</sub>
