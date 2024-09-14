@@ -2,8 +2,8 @@
 
 Name service components for Bixby.js.
 
-`bixby-ns` is a set of components for obtaining naming information in a service-
-oriented application.
+`bixby-ns` is a set of components for obtaining naming information in a
+service-oriented application.
 
 This package takes inspiration - for both its name and its functionality - from
 [Name Service Switch](https://en.wikipedia.org/wiki/Name_Service_Switch) (NSS),
