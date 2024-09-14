@@ -1,0 +1,7 @@
+# https://www.iana.org/assignments/rpc-program-numbers/rpc-program-numbers.xhtml
+# https://man7.org/linux/man-pages/man5/rpc.5.html
+
+ypserv:
+  number: 100004
+  aliases:
+    - ypprog
