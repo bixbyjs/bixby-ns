@@ -11,7 +11,8 @@ a source of common configuration and name resolution mechanisms on Linux and
 other UNIX-like operating systems.
 
 Unlike NSS, `bixby-ns` provides information about static, well-known details,
-such as [service names](https://www.iana.org/assignments/service-names-port-numbers).
+such as [service names](https://www.iana.org/assignments/service-names-port-numbers)
+and [protocol numbers](https://www.iana.org/assignments/protocol-numbers).
 Dynamic information is provided specialized packages that better suit the
 requirements of modern, service-oriented architectures including:
 
