@@ -1,3 +1,4 @@
+// Module dependencies.
 var PluggableServiceRegistry = require('../lib/pluggableserviceregistry');
 
 
